@@ -18,7 +18,7 @@ Aplikasi web sederhana untuk mengecek "khodam" secara online berdasarkan nama ya
 ## 📁 Struktur Proyek
 
 check-khodam-online/ 
-│ 
+
 ├── index.html        # Halaman utama HTML 
 ├── style.css         # Gaya tampilan halaman ├──script.js          # Logika JavaScript 
 └── README.md         # Dokumentasi proyek ini
