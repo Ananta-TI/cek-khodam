@@ -16,6 +16,7 @@ Aplikasi web sederhana untuk mengecek "khodam" secara online berdasarkan nama ya
 - Reset otomatis setelah 5 detik.
 
 ## 📁 Struktur Proyek
+
 check-khodam-online/ 
 │ 
 ├── index.html        # Halaman utama HTML 
