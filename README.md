@@ -2,7 +2,8 @@
 
 ﻿# DEMO ↓
  __________
-## https://ananta-ti.github.io/cek-khodam/
+### https://ananta-ti.github.io/cek-khodam/
+__________
 
 # 🔮 Check Khodam Online
 
@@ -19,9 +20,10 @@ Aplikasi web sederhana untuk mengecek "khodam" secara online berdasarkan nama ya
 
 check-khodam-online/ 
 
-├── index.html        # Halaman utama HTML 
-├── style.css         # Gaya tampilan halaman ├──script.js          # Logika JavaScript 
-└── README.md         # Dokumentasi proyek ini
+ - ├── index.html      
+ - ├── style.css        
+ - ├──script.js        
+ - └── README.md     
 
 ## 🚀 Cara Menjalankan
 
